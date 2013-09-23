@@ -6,11 +6,14 @@ A simple command to show the top N cpu consuming threads of a JVM
 Usage
 ===============
 
-threadsanalyer.sh <pid> [<stackTraceLines>] [<topThreads>]
+threadsanalyer.sh pid [stackTraceLines] [topThreads]
 
-pid: The jvm pid
+pid: The jvm 
+
 stackTraceLines: # lines of the jvm thread stack trace
+
 topThreads: the top N threads
+
 
 Example
 ===============
