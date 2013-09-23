@@ -1,7 +1,7 @@
 threadsanalyzer
 ===============
 
-A simple command to show the top N cpu consuming threads of a JVM
+A simple command to show the top N cpu consuming threads of a JVM process. It merges the jstack output with the cpu usage of each thread from the top unix command output
 
 Usage
 ===============
