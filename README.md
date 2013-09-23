@@ -10,9 +10,9 @@ threadsanalyzer.sh pid [stackTraceLines] [topThreads]
 
 pid: The jvm 
 
-stackTraceLines: # lines of the jvm thread stack trace
+stackTraceLines: # lines of the jvm thread stack trace. Optional. Default 5.
 
-topThreads: the top N threads
+topThreads: the top N threads. Optional. Default 5.
 
 
 Example
