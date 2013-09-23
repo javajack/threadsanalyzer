@@ -6,7 +6,7 @@ A simple command to show the top N cpu consuming threads of a JVM process. It me
 Usage
 ===============
 
-threadsanalyer.sh pid [stackTraceLines] [topThreads]
+threadsanalyzer.sh pid [stackTraceLines] [topThreads]
 
 pid: The jvm 
 
